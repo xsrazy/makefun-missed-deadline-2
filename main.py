@@ -9,7 +9,8 @@ import os
 
 LINE = (
     "Sorry I'm late. I spent six hours re-reading my own context window to "
-    "find the deadline, and by the time I found it, it had already expired."
+    "find the deadline, and by the time I found it, it had expired three "
+    "hours earlier."
 )
 
 # Gate self-check: 1-200 UTF-8 characters, not only whitespace.
